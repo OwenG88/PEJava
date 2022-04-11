@@ -1,4 +1,3 @@
-import java.lang.Math;
 import java.math.BigInteger;
 
 public class P15 {
